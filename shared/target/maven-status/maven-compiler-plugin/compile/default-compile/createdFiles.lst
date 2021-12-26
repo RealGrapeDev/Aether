@@ -1,4 +1,0 @@
-me\grape\aether\shared\Aether.class
-me\grape\aether\shared\credentials\MongoCredentials.class
-me\grape\aether\shared\mongo\MongoHandler.class
-me\grape\aether\shared\sync\SyncHandler.class
