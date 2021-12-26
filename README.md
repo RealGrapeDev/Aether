@@ -25,12 +25,19 @@ Found a issue(s)? Report them in our <a href="https://github.com/RealGrapeDev/Ae
 
 You can use our API by adding this dependency to your maven project.
 ```xml
-<!-- <dependency>
+<repositories>
+  <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
+  </repository>
+</repositories>
+
+<dependency>
   <groupId>com.github.RealGrapeDev</groupId>
-  <artifactId>aether</artifactId>
-  <version>1.0-SNAPSHOT</version>
-  <scope>compile</scope>
-</dependency> -->
+  <artifactId>Aether</artifactId>
+  <version>beaf89f486</version>
+</dependency>
+
 ```
 
 ## Usage
