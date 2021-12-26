@@ -1,0 +1,3 @@
+name: Aether
+main: me.grape.aether.bukkit.AetherBukkit
+version: 1.0

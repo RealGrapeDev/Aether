@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.NoSequel.CommandAPI:bukkit:c3f21168be">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/NoSequel/CommandAPI/bukkit/c3f21168be/bukkit-c3f21168be.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/NoSequel/CommandAPI/bukkit/c3f21168be/bukkit-c3f21168be-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/NoSequel/CommandAPI/bukkit/c3f21168be/bukkit-c3f21168be-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

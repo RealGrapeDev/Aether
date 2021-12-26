@@ -1,0 +1,5 @@
+me\grape\aether\bot\AetherBot.class
+me\grape\aether\bot\commands\SyncCommand.class
+me\grape\aether\bot\tasks\MemberCheckTask.class
+me\grape\aether\bot\config\EmbedObject.class
+me\grape\aether\bot\config\Config.class
